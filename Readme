@@ -2,7 +2,7 @@
 
 > Personal portfolio website of Saritha Chowdary — Full Stack Developer & Generative AI Engineer.
 
-🌐 **Live Site:** [splendorous-horse-c5290b.netlify.app](https://splendorous-horse-c5290b.netlify.app)
+🌐 **Live Site:** [https://superb-daffodil-18b591.netlify.app/)
 
 ---
 
@@ -65,7 +65,7 @@ Agentic AI application using LangChain for natural language flight search and bo
 No build step needed — just open the file:
 
 ```bash
-git clone https://github.com/Chowdarysaritha311/saritha-portfolio.git
+git clone https: https://chowdarysaritha311.github.io/sarithachowdary-portfolio/
 cd saritha-portfolio
 open index.html
 ```
