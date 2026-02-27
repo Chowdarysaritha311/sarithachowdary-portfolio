@@ -1,0 +1,86 @@
+# Saritha Chowdary — Developer Portfolio
+
+> Personal portfolio website of Saritha Chowdary — Full Stack Developer & Generative AI Engineer.
+
+🌐 **Live Site:** [splendorous-horse-c5290b.netlify.app](https://splendorous-horse-c5290b.netlify.app)
+
+---
+
+## About
+
+This is my personal developer portfolio showcasing my projects, internships, skills, and achievements. Built as a single-page application with pure HTML, CSS, and JavaScript — no frameworks, no dependencies, fast loading.
+
+---
+
+## Sections
+
+| Section | Content |
+|---|---|
+| **Hero** | Introduction, stats, CTA buttons |
+| **About** | Bio + interactive tech stack |
+| **Experience** | 5 internships with timeline |
+| **Projects** | Featured AI & full-stack projects |
+| **Awards** | Achievements & certifications |
+| **Contact** | Email + social links |
+
+---
+
+## Tech Stack
+
+**AI & GenAI**
+- LangChain · LangGraph · LLMs · RAG Pipelines · MCP · FastAPI · n8n
+
+**Full Stack**
+- Python · JavaScript · React.js · Node.js · Express.js · MongoDB · MySQL
+
+**ML & Computer Vision**
+- Scikit-learn · OpenCV · NumPy · Pandas · NLP
+
+**Tools**
+- Git · Agile/Scrum · REST APIs · Prompt Engineering
+
+---
+
+## Featured Projects
+
+### 1. Automated Invoice Parser
+AI-powered pipeline using LangGraph multi-agent orchestration, LLMs, FastAPI, and MCP — eliminates manual invoice data entry end-to-end.
+
+### 2. LLM-Based Web Research Agent
+Autonomous research agent using RAG pipelines and MCP for real-time information gathering and summarisation.
+
+### 3. Crowd Surveillance System
+Real-time anomaly detection system using Computer Vision and OpenCV — built as Team Lead at Uptoskills.
+
+### 4. Zomato Clone
+Full-stack food delivery platform built on the MERN stack with JWT auth, payment integration, and real-time updates.
+
+### 5. AI Flight Booking Agent
+Agentic AI application using LangChain for natural language flight search and booking.
+
+---
+
+## Run Locally
+
+No build step needed — just open the file:
+
+```bash
+git clone https://github.com/Chowdarysaritha311/saritha-portfolio.git
+cd saritha-portfolio
+open index.html
+```
+
+Or simply drag `index.html` into your browser.
+
+---
+
+## Contact
+
+- 📧 chowdarysaritha311@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/saritha-chowdary-63821b289)
+- 🐙 [GitHub](https://github.com/Chowdarysaritha311)
+- 💻 [LeetCode](https://leetcode.com/u/ch_saritha095/)
+
+---
+
+© 2026 Saritha Chowdary
